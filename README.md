@@ -1,3 +1,5 @@
+## NAME : NAVEEN KUMAR T
+## REG  O : 212223220067
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name:       </h3>
 <h3>Register Number:           </h3>
@@ -88,6 +90,8 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
+![428341451-2dde27ae-c9ec-48e1-a48f-bd5a129e5593](https://github.com/user-attachments/assets/e29e2b0a-2664-421c-a3d1-c2ec145330b3)
+
 
 
 <hr>
@@ -117,3 +121,5 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+![428341570-e551ec4b-97d3-4c24-962b-2e0f391fbe4e](https://github.com/user-attachments/assets/c3021ef2-e2d8-487c-ab98-928d3e1ac553)
+
