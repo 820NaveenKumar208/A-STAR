@@ -90,7 +90,8 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-![428341451-2dde27ae-c9ec-48e1-a48f-bd5a129e5593](https://github.com/user-attachments/assets/e29e2b0a-2664-421c-a3d1-c2ec145330b3)
+![428341451-2dde27ae-c9ec-48e1-a48f-bd5a129e5593](https://github.com/user-attachments/assets/520d8f73-e9a4-463a-99f6-04bccce97635)
+
 
 
 
@@ -121,5 +122,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-![428341570-e551ec4b-97d3-4c24-962b-2e0f391fbe4e](https://github.com/user-attachments/assets/c3021ef2-e2d8-487c-ab98-928d3e1ac553)
+
+![428341570-e551ec4b-97d3-4c24-962b-2e0f391fbe4e](https://github.com/user-attachments/assets/9d70bf3b-160f-4e01-acb5-1a88fe7885c5)
 
